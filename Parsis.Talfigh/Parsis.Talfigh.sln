@@ -3,8 +3,130 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{3E3E96DE-7281-4305-B8AA-2AA8B3853595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Business", "Business\Parsis.Talfigh.Business\Parsis.Talfigh.Business.csproj", "{9CA46766-7ED4-4D78-BB46-FC99749AA10F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{D9726407-3669-4ADF-AE42-0A9F8CF09C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.DAL", "DAL\Parsis.Talfigh.DAL\Parsis.Talfigh.DAL.csproj", "{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.DAL.Domain", "DAL\Parsis.Talfigh.DAL.Domain\Parsis.Talfigh.DAL.Domain.csproj", "{76430275-5363-40D5-B7B0-3AFA3F9A414C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.DAL.Test", "DAL\Parsis.Talfigh.DAL.Test\Parsis.Talfigh.DAL.Test.csproj", "{2F619037-A519-41CD-8829-71E830EBC0D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{424E7F5A-3738-424E-9AFA-08ACE5E545E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Host", "Host\Parsis.Talfigh.Host\Parsis.Talfigh.Host.csproj", "{A794F29B-ED83-4A72-AF69-B38EBF2C84DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{54B80638-54BB-404A-9034-BDB6B9077A23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTest", "IntegrationTest", "{B6CF3A92-9D07-41E5-99F0-BEB0CEBA772B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{4B30F912-FC35-4DA3-A67F-EF5A7C714A56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{4EE523FC-9331-4FF7-ADF4-D9856C9F9134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Infra", "Infra\Parsis.Talfigh.Infra\Parsis.Talfigh.Infra.csproj", "{A48EDC40-7899-45C6-AC09-03274D5DA363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.IntegrationTests", "IntegrationTest\Parsis.Talfigh.IntegrationTests\Parsis.Talfigh.IntegrationTests.csproj", "{12B06E45-12F5-4E56-ADB4-5879D98D3105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Security", "Security\Parsis.Talfigh.Security\Parsis.Talfigh.Security.csproj", "{277A2370-BD62-4CB0-8B7E-6441CEB20D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Service.ServiceInterface", "Service\Parsis.Talfigh.Host.Service.ServiceInterface\Parsis.Talfigh.Service.ServiceInterface.csproj", "{130DED02-5984-487C-93DD-0D264EED140E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Service.ServiceModel", "Service\Parsis.Talfigh.Host.Service.ServiceModel\Parsis.Talfigh.Service.ServiceModel.csproj", "{8D6DE92C-637E-4433-9810-98D7FBCEA6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Security.Service.ServiceInterface", "Service\Parsis.Talfigh.Security.Service.ServiceInterface\Parsis.Talfigh.Security.Service.ServiceInterface.csproj", "{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Security.Service.ServiceModel", "Service\Parsis.Talfigh.Security.Service.ServiceModel\Parsis.Talfigh.Security.Service.ServiceModel.csproj", "{D75FF3BB-6A7A-451A-8596-257260444059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.Service.CommonServiceModel", "Service\Parsis.Talfigh.Service.CommonServiceModel\Parsis.Talfigh.Service.CommonServiceModel.csproj", "{2C39A961-05A5-48EF-9DD1-23941C5674FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonModel", "CommonModel", "{7551A5BF-B602-4E0A-9F8A-7D09D2BE1CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsis.Talfigh.CommonModel", "CommonModel\Parsis.Talfigh.CommonModel\Parsis.Talfigh.CommonModel.csproj", "{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA46766-7ED4-4D78-BB46-FC99749AA10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA46766-7ED4-4D78-BB46-FC99749AA10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA46766-7ED4-4D78-BB46-FC99749AA10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA46766-7ED4-4D78-BB46-FC99749AA10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76430275-5363-40D5-B7B0-3AFA3F9A414C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76430275-5363-40D5-B7B0-3AFA3F9A414C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76430275-5363-40D5-B7B0-3AFA3F9A414C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76430275-5363-40D5-B7B0-3AFA3F9A414C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F619037-A519-41CD-8829-71E830EBC0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F619037-A519-41CD-8829-71E830EBC0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F619037-A519-41CD-8829-71E830EBC0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F619037-A519-41CD-8829-71E830EBC0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A794F29B-ED83-4A72-AF69-B38EBF2C84DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A794F29B-ED83-4A72-AF69-B38EBF2C84DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A794F29B-ED83-4A72-AF69-B38EBF2C84DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A794F29B-ED83-4A72-AF69-B38EBF2C84DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48EDC40-7899-45C6-AC09-03274D5DA363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48EDC40-7899-45C6-AC09-03274D5DA363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48EDC40-7899-45C6-AC09-03274D5DA363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48EDC40-7899-45C6-AC09-03274D5DA363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B06E45-12F5-4E56-ADB4-5879D98D3105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B06E45-12F5-4E56-ADB4-5879D98D3105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B06E45-12F5-4E56-ADB4-5879D98D3105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B06E45-12F5-4E56-ADB4-5879D98D3105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277A2370-BD62-4CB0-8B7E-6441CEB20D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277A2370-BD62-4CB0-8B7E-6441CEB20D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277A2370-BD62-4CB0-8B7E-6441CEB20D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277A2370-BD62-4CB0-8B7E-6441CEB20D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130DED02-5984-487C-93DD-0D264EED140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130DED02-5984-487C-93DD-0D264EED140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130DED02-5984-487C-93DD-0D264EED140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130DED02-5984-487C-93DD-0D264EED140E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6DE92C-637E-4433-9810-98D7FBCEA6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6DE92C-637E-4433-9810-98D7FBCEA6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6DE92C-637E-4433-9810-98D7FBCEA6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6DE92C-637E-4433-9810-98D7FBCEA6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75FF3BB-6A7A-451A-8596-257260444059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75FF3BB-6A7A-451A-8596-257260444059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75FF3BB-6A7A-451A-8596-257260444059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75FF3BB-6A7A-451A-8596-257260444059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C39A961-05A5-48EF-9DD1-23941C5674FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C39A961-05A5-48EF-9DD1-23941C5674FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C39A961-05A5-48EF-9DD1-23941C5674FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C39A961-05A5-48EF-9DD1-23941C5674FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CA46766-7ED4-4D78-BB46-FC99749AA10F} = {3E3E96DE-7281-4305-B8AA-2AA8B3853595}
+		{D2F06AC8-BF60-4CB3-8FDF-D1FF18ABE970} = {D9726407-3669-4ADF-AE42-0A9F8CF09C71}
+		{76430275-5363-40D5-B7B0-3AFA3F9A414C} = {D9726407-3669-4ADF-AE42-0A9F8CF09C71}
+		{2F619037-A519-41CD-8829-71E830EBC0D4} = {D9726407-3669-4ADF-AE42-0A9F8CF09C71}
+		{A794F29B-ED83-4A72-AF69-B38EBF2C84DD} = {424E7F5A-3738-424E-9AFA-08ACE5E545E5}
+		{A48EDC40-7899-45C6-AC09-03274D5DA363} = {54B80638-54BB-404A-9034-BDB6B9077A23}
+		{12B06E45-12F5-4E56-ADB4-5879D98D3105} = {B6CF3A92-9D07-41E5-99F0-BEB0CEBA772B}
+		{277A2370-BD62-4CB0-8B7E-6441CEB20D86} = {4B30F912-FC35-4DA3-A67F-EF5A7C714A56}
+		{130DED02-5984-487C-93DD-0D264EED140E} = {4EE523FC-9331-4FF7-ADF4-D9856C9F9134}
+		{8D6DE92C-637E-4433-9810-98D7FBCEA6BA} = {4EE523FC-9331-4FF7-ADF4-D9856C9F9134}
+		{4AD2B1AA-BB3B-4AA3-97A3-181EDB7170F6} = {4EE523FC-9331-4FF7-ADF4-D9856C9F9134}
+		{D75FF3BB-6A7A-451A-8596-257260444059} = {4EE523FC-9331-4FF7-ADF4-D9856C9F9134}
+		{2C39A961-05A5-48EF-9DD1-23941C5674FE} = {4EE523FC-9331-4FF7-ADF4-D9856C9F9134}
+		{63A940EC-803B-4F7B-9A0D-B8CCDD25AC80} = {7551A5BF-B602-4E0A-9F8A-7D09D2BE1CAB}
 	EndGlobalSection
 EndGlobal

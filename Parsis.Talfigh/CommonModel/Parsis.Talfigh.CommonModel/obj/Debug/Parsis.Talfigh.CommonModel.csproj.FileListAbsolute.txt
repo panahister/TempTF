@@ -1,0 +1,5 @@
+D:\Personal\Dev\Parsis\Parsis.Talfigh\CommonModel\Parsis.Talfigh.CommonModel\bin\Debug\Parsis.Talfigh.CommonModel.dll
+D:\Personal\Dev\Parsis\Parsis.Talfigh\CommonModel\Parsis.Talfigh.CommonModel\bin\Debug\Parsis.Talfigh.CommonModel.pdb
+D:\Personal\Dev\Parsis\Parsis.Talfigh\CommonModel\Parsis.Talfigh.CommonModel\obj\Debug\Parsis.Talfigh.CommonModel.csprojResolveAssemblyReference.cache
+D:\Personal\Dev\Parsis\Parsis.Talfigh\CommonModel\Parsis.Talfigh.CommonModel\obj\Debug\Parsis.Talfigh.CommonModel.dll
+D:\Personal\Dev\Parsis\Parsis.Talfigh\CommonModel\Parsis.Talfigh.CommonModel\obj\Debug\Parsis.Talfigh.CommonModel.pdb

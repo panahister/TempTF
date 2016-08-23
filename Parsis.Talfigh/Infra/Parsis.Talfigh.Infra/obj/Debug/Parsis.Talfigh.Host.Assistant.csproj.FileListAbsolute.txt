@@ -1,0 +1,14 @@
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\Parsis.Talfigh.Host.Assistant.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\Parsis.Talfigh.Host.Assistant.pdb
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Client.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Common.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Interfaces.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Text.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.xml
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Client.xml
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Common.xml
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\bin\Debug\ServiceStack.Text.xml
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\obj\Debug\Parsis.Talfigh.Host.Assistant.dll
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\obj\Debug\Parsis.Talfigh.Host.Assistant.pdb
+D:\Personal\Dev\Parsis-Talfigh\Parsis.Talfigh\Assistant\Parsis.Talfigh.Host.Assistant\obj\Debug\Parsis.Talfigh.Host.Assistant.csprojResolveAssemblyReference.cache

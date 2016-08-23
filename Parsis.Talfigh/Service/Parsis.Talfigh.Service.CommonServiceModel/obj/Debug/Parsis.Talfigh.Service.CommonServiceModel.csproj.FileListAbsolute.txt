@@ -1,0 +1,4 @@
+D:\Personal\Dev\Parsis\Parsis.Talfigh\Service\Parsis.Talfigh.Service.CommonServiceModel\bin\Debug\Parsis.Talfigh.Service.CommonServiceModel.dll
+D:\Personal\Dev\Parsis\Parsis.Talfigh\Service\Parsis.Talfigh.Service.CommonServiceModel\bin\Debug\Parsis.Talfigh.Service.CommonServiceModel.pdb
+D:\Personal\Dev\Parsis\Parsis.Talfigh\Service\Parsis.Talfigh.Service.CommonServiceModel\obj\Debug\Parsis.Talfigh.Service.CommonServiceModel.dll
+D:\Personal\Dev\Parsis\Parsis.Talfigh\Service\Parsis.Talfigh.Service.CommonServiceModel\obj\Debug\Parsis.Talfigh.Service.CommonServiceModel.pdb
